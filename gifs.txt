@@ -1,0 +1,51 @@
+gifs=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/quinn_3kG8zNFCCQdbMnsdkb9vL_card_thumbnail.mp4?v=678322443058806729" ,
+        prodIcon: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/wave-call--4_64x64.png?v=1658295340",
+        prodName: "boAt Airdopes 131 PRO",
+        review: "Smart Watches",
+        price: "₹1299",        
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/quinn_04aTzxw4cfATkGtXaCxyi_card_thumbnail.mp4?v=5396489848204085494",
+        prodIcon: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_2_64x64.png?v=1657293557",
+        prodName:"boAt Airdopes 131 - Wireless Earbuds",
+        review: "Rockerzz Wireless",
+        price: "₹1299",       
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/quinn_33Y-hrJvgwdrFKuZ5AnlH_card_thumbnail.mp4?v=12809403617936412587",
+        prodIcon: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/413-black_64x64.png?v=1658298863",
+        prodName: "boAt Watch Wave Lite",
+        review: "Airpods TWS",
+        price: "₹1799",        
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/quinn_Z0-RLJlUCNvOBH3jAQq0V_card_thumbnail.mp4?v=17400666481025471640",
+        prodIcon: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-image-4_1_64x64.png?v=1656016935",
+        prodName: "boAt Airdopes 141",
+        review: "Smart Watches",
+        price: "₹1799",        
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/quinn_TEOU8UAlAUDTpZMMWWP02_card_thumbnail.mp4?v=17948985268532355974" ,
+        prodIcon: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/xtend-pro-3_64x64.png?v=1658298359",
+        prodName: "boAt Airdopes 131 PRO",
+        review: "Smart Watches",
+        price: "₹1299",      
+    },   
+]
+
+blogs=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Earphone_1296x_540x_25759241-1386-4661-bec0-bad7c111178f_540x.png?v=1650620291",
+        h2: "Earphones Buying Guide - Everything You Need To KnowO",              
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Main-banner_520x500_540x_d7c9944e-0985-498b-9a89-3a54d32c9dd2_520x.png?v=1650620307",
+        h2: "The Ultimate Smartwatch Guide - Get The World On Your Wrist",              
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/articles/Storm-Pro-Blog_600x.jpg?v=1657704485",
+        h2: "Smart Got Good Looking: boAt Storm Pro Smartwatch is Here to Kick a Storm",              
+    },
+]

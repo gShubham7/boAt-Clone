@@ -1,0 +1,58 @@
+smart_watches=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/xtend_black_300x.png?v=1650387008" ,
+        prodName: "boAt Watch Xtend‌",
+        review: "4.8 | 121 reviews",
+        price: "₹3,499",
+        save:"You Save: ₹4491 (56%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main3_eaf60560-3afb-4dda-b4c0-598078f7ce72_300x.png?v=1647767874" ,
+        prodName: "boAt Watch Wave Pro",
+        review: "5.0 | 10 reviews",
+        price: "₹3,299",
+        save:"You Save: ₹3691 (53%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/a6549acb-b075-4c3e-8ed3-9c9fcba32d42_300x.png?v=1625046216",
+        prodName: "boAt Storm",
+        review: "4.8 | 929 reviews",
+        price: "₹2,499",
+        save:"You Save: ₹3491 (58%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/blue_d8db0011-02f7-43d6-9fe7-7a71a9ed86d2_300x.png?v=1654312290",
+        prodName: "boAt Wave Connect",
+        review: "4.9 | 63 reviews",
+        price: "₹3,999",
+        save:"You Save: ₹2991 (43%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/xtend_black_300x.png?v=1650387008" ,
+        prodName: "boAt Watch Xtend‌",
+        review: "4.8 | 121 reviews",
+        price: "₹3,499",
+        save:"You Save: ₹4491 (56%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main3_eaf60560-3afb-4dda-b4c0-598078f7ce72_300x.png?v=1647767874" ,
+        prodName: "boAt Watch Wave Pro",
+        review: "5.0 | 10 reviews",
+        price: "₹3,299",
+        save:"You Save: ₹3691 (53%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/a6549acb-b075-4c3e-8ed3-9c9fcba32d42_300x.png?v=1625046216",
+        prodName: "boAt Storm",
+        review: "4.8 | 929 reviews",
+        price: "₹2,499",
+        save:"You Save: ₹3491 (58%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/blue_d8db0011-02f7-43d6-9fe7-7a71a9ed86d2_300x.png?v=1654312290",
+        prodName: "boAt Wave Connect",
+        review: "4.9 | 63 reviews",
+        price: "₹3,999",
+        save:"You Save: ₹2991 (43%)",
+    },
+]

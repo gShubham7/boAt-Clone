@@ -1,0 +1,58 @@
+top_earbuds=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/c2386af9-4349-432f-8ba5-2b6aa06025c8_300x.png?v=1642405569" ,
+        prodName: "boAt Airdopes 131 - Wireless Earbuds",
+        review: "4.8 | 1116 reviews",
+        price: "₹1299",
+        save:"You Save: ₹1691 (57%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/white_300x.png?v=1657869596" ,
+        prodName: "boAt Airdopes 141",
+        review: "4.8 | 411 reviews",
+        price: "₹1,499",
+        save:"You Save: ₹2991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/402-main-img_300x.png?v=1630059242",
+        prodName: "boAt Airdopes 402 - Wireless Earbuds",
+        review: "4.8 | 467 reviews",
+        price: "₹1,999",
+        save:"You Save: ₹3991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/airdopes-121-v2-blue_300x.png?v=1612765376",
+        prodName: "boAt Airdopes 121 v2",
+        review: "4.8 | 466 reviews",
+        price: "₹1,299",
+        save:"You Save: ₹1700 (57%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/c2386af9-4349-432f-8ba5-2b6aa06025c8_300x.png?v=1642405569" ,
+        prodName: "boAt Airdopes 131 - Wireless Earbuds",
+        review: "4.8 | 1116 reviews",
+        price: "₹1299",
+        save:"You Save: ₹1691 (57%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/white_300x.png?v=1657869596" ,
+        prodName: "boAt Airdopes 141",
+        review: "4.8 | 411 reviews",
+        price: "₹1,499",
+        save:"You Save: ₹2991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/402-main-img_300x.png?v=1630059242",
+        prodName: "boAt Airdopes 402 - Wireless Earbuds",
+        review: "4.8 | 467 reviews",
+        price: "₹1,999",
+        save:"You Save: ₹3991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/airdopes-121-v2-blue_300x.png?v=1612765376",
+        prodName: "boAt Airdopes 121 v2",
+        review: "4.8 | 466 reviews",
+        price: "₹1,299",
+        save:"You Save: ₹1700 (57%)",
+    },
+]

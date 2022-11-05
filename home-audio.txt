@@ -1,0 +1,30 @@
+home_audio=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_03786e84-2bf4-4d79-acc7-adaf74b052f0_300x.png?v=1647671737" ,
+        prodName: "boAt Aavante Bar 900",
+        review: "5.0 | 3 reviews",
+        price: "₹3199",
+        save:"You Save: ₹2791 (59%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/aavante-bar-1160-2_b0b3aa4f-c695-4157-857c-1864c2ac947f_600x.png?v=1629091906",
+        prodName:"boAt Aavante Bar 1150",
+        review: "4.9 | 16 reviews",
+        price: "₹4499",
+        save: "You Save: ₹5491 (55%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/aavante-bar-1160-2_b0b3aa4f-c695-4157-857c-1864c2ac947f_600x.png?v=1629091906",
+        prodName: "boAt Aavante Bar 1150",
+        review: "4.7 | 19 reviews",
+        price: "₹4499",
+        save: "You Save: ₹5491 (55%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ABAaupera-FI02_400x.png?v=1657437576",
+        prodName: "boAt Aavante Bar Aaupera",
+        review: "4.8 | 5 reviews",
+        price: "₹9999",
+        save: "You Save: ₹14991 (60%)",
+    }
+]

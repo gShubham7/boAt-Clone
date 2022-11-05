@@ -1,0 +1,57 @@
+trending_wired=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103b_300x.png?v=1574927262" ,
+        prodName: "boAt BassHeads 103",
+        review: "4.8 | 533 reviews",
+        price: "₹299",
+        save:"You Save: ₹991 (77%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/08119dcb-d777-44af-b556-3492e5b4b7f0_300x.png?v=1625046271",
+        prodName:"boAt Bassheads 900",
+        review: "4.8 | 160 reviews",
+        price: "₹799",
+        save: "You Save: ₹1691 (68%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/f87f98c3-9b52-4f7f-9ebe-dd10ee9517d9_300x.png?v=1633152280",
+        prodName: "boAt BassHeads 102",
+        review: "4.8 | 154 reviews",
+        price: "₹449",
+        save: "You Save: ₹841 (65%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/7d635fe4-8c4c-4c4b-8c00-6065455dc608_300x.png?v=1625046386",
+        prodName: "boAt BassHeads 103",
+        review: "4.8 | 1356 reviews",
+        price: "₹549",
+        save: "You Save: ₹941 (63%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103b_300x.png?v=1574927262" ,
+        prodName: "boAt BassHeads 103",
+        review: "4.8 | 533 reviews",
+        price: "₹299",
+        save:"You Save: ₹991 (77%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/08119dcb-d777-44af-b556-3492e5b4b7f0_300x.png?v=1625046271",
+        prodName:"boAt Bassheads 900",
+        review: "4.8 | 160 reviews",
+        price: "₹799",
+        save: "You Save: ₹1691 (68%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/f87f98c3-9b52-4f7f-9ebe-dd10ee9517d9_300x.png?v=1633152280",
+        prodName: "boAt BassHeads 102",
+        review: "4.8 | 154 reviews",
+        price: "₹449",
+        save: "You Save: ₹841 (65%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/7d635fe4-8c4c-4c4b-8c00-6065455dc608_300x.png?v=1625046386",
+        review: "4.8 | 1356 reviews",
+        price: "₹549",
+        save: "You Save: ₹941 (63%)",
+    },
+]

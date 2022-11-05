@@ -1,0 +1,58 @@
+deals=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/553af994-244a-4b81-9d9e-9967a1b966b3_300x.png?v=1656750183" ,
+        prodName: "boAt BassHeads 100",
+        review: "4.8 | 407 reviews",
+        price: "₹379",
+        save:"You Save: ₹620 (62%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_15634ca0-9f81-4d11-b891-9a1496f709b1_300x.png?v=1641801688" ,
+        prodName: "boAt Rockerz 330",
+        review: "4.8 | 258 reviews",
+        price: "₹1499",
+        save:"You Save: ₹1491 (50%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/6b237ddc-f894-4dfd-a474-2435f93e6611_300x.png?v=1625046507",
+        prodName: "boAt Rockerz 255",
+        review: "4.8 | 224 reviews",
+        price: "₹999",
+        save:"You Save: ₹1991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/f87f98c3-9b52-4f7f-9ebe-dd10ee9517d9_300x.png?v=1633152280",
+        prodName: "boAt BassHeads 102",
+        review: "4.8 | 154 reviews",
+        price: "₹399",
+        save:"You Save: ₹891 (69%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/553af994-244a-4b81-9d9e-9967a1b966b3_300x.png?v=1656750183" ,
+        prodName: "boAt BassHeads 100",
+        review: "4.8 | 407 reviews",
+        price: "₹379",
+        save:"You Save: ₹620 (62%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_15634ca0-9f81-4d11-b891-9a1496f709b1_300x.png?v=1641801688" ,
+        prodName: "boAt Rockerz 330",
+        review: "4.8 | 258 reviews",
+        price: "₹1499",
+        save:"You Save: ₹1491 (50%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/6b237ddc-f894-4dfd-a474-2435f93e6611_300x.png?v=1625046507",
+        prodName: "boAt Rockerz 255",
+        review: "4.8 | 224 reviews",
+        price: "₹999",
+        save:"You Save: ₹1991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/f87f98c3-9b52-4f7f-9ebe-dd10ee9517d9_300x.png?v=1633152280",
+        prodName: "boAt BassHeads 102",
+        review: "4.8 | 154 reviews",
+        price: "₹399",
+        save:"You Save: ₹891 (69%)",
+    },
+]

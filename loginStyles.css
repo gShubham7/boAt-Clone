@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(37, 37, 37);
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+h3 {
+    margin-bottom: 40px;
+}
+
+#container>h1,
+#container>h1+h3 {
+    text-align: center;
+    color: white;
+}
+
+#container {
+    width: 60%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+#container>div {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#container>div>img {
+    width: 8%;
+    border-radius: 50%;
+    background-color: white;
+    margin: 0 5px;
+}
+
+#logIn,
+#signUp,
+#payPage,
+#OTP_Page {
+    text-align: center;
+    position: relative;
+}
+
+#logIn input,
+#signUp input,
+#payPage input,
+#OTP_Page input {
+    width: 80%;
+    margin-top: 20px;
+    line-height: 50px;
+    border: 0px;
+    padding: 10px 20px;
+    background-color: rgb(37, 37, 37);
+    border: 1px solid rgb(69, 69, 69);
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+#logIn input[type="submit"],
+#signUp input[type="submit"],
+#payPage input[type="submit"],
+#OTP_Page input[type="submit"] {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+}
+
+#logIn>span,
+#signUp>span {
+    position: absolute;
+    right: 100px;
+    bottom: 165px;
+}
+
+#logIn>span>a,
+#signUp>span>a {
+    color: rgb(190, 190, 185);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#logIn>p,
+#signUp>p {
+    margin-top: 30px;
+}
+
+span>a {
+    color: white;
+}

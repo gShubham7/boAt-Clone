@@ -1,0 +1,21 @@
+crauser_1=[
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/A131-banner-new_3_1200x.png?v=1658304483",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/gif--new_1200x.gif?v=1658249062",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/deal-of-the-day-new_1200x.png?v=1657957011",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/A-131-Banner_0e6d2056-3bd5-4ee0-8bd3-7a2a50e30e30_1200x.jpg?v=1657953240",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/wireless-banner_1_1200x.png?v=1657290971",
+]
+
+crauser-2=[
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Vector_Smart_Object_6085a897-ef0f-41c5-9690-3de81a71112f.png?v=1642419136",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/image-3.png?v=1657607507",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/grey.jpg?v=1657955575",
+]
+
+crauser-3=[
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Fierce_-Flamboyant_-Fearless_jpg_563x.jpg?v=1651227694",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Radiant_-Rebel_-Trailblazer_jpg_563x.jpg?v=1651227770",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Bold_-Fashionista_-Hustler_jpg_563x.jpg?v=1651227807",
+    "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Energetic_-Charming_-Free-Spirit_jpg_563x.jpg?v=1651227851",
+    
+]

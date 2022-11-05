@@ -1,0 +1,30 @@
+grooming=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/95535146-e50a-49fe-803e-18add07a0759_400x.png?v=1625045778" ,
+        prodName: "Misfit T200",
+        review: "4.8 | 39 reviews",
+        price: "₹1649",
+        save:"You Save: ₹2350 (59%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_blue_400x.png?v=1630060654",
+        prodName:"Misfit T50 Trimmer",
+        review: "4.9 | 16 reviews",
+        price: "₹989",
+        save: "You Save: ₹1510 (60%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_d1a8963d-822e-481e-a61e-ce27d5734c68_300x.png?v=1630646787",
+        prodName: "Misfit T50 Lite",
+        review: "4.5 | 4 reviews",
+        price: "₹879",
+        save: "You Save: ₹1120 (56%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/white_300x.png?v=1657869596",
+        prodName: "Misfit T30 Trimmer",
+        review: "4.8 | 5 reviews",
+        price: "₹769",
+        save: "You Save: ₹730 (49%)",
+    }
+]

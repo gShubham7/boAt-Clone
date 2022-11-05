@@ -1,0 +1,58 @@
+wireless=[
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ed46e58c-9643-43e0-b350-9539d293aa51_600x.png?v=1625045114" ,
+        prodName: "boAt Rockerz 235 V2",
+        review: "4.8 | 1036 reviews",
+        price: "₹999",
+        save:"You Save: ₹1991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img-R333-1_300x.png?v=1641801662" ,
+        prodName: "boAt Rockerz 333",
+        review: "4.9 | 146 reviews",
+        price: "₹1,599",
+        save:"You Save: ₹2391 (60%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/245v2_main_5_300x.png?v=1655787246",
+        prodName: "boAt Rockerz 245 V2",
+        review: "4.8 | 189 reviews",
+        price: "₹1,199",
+        save:"You Save: ₹1791 (60%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1be19528-6d06-4cab-8815-02618b93d3c9_300x.png?v=1625045854",
+        prodName: "boAt Rockerz 255 Pro",
+        review: "4.8 | 378 reviews",
+        price: "₹1,399",
+        save:"You Save: ₹3100 (60%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ed46e58c-9643-43e0-b350-9539d293aa51_600x.png?v=1625045114" ,
+        prodName: "boAt Rockerz 235 V2",
+        review: "4.8 | 1036 reviews",
+        price: "₹999",
+        save:"You Save: ₹1991 (67%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img-R333-1_300x.png?v=1641801662" ,
+        prodName: "boAt Rockerz 333",
+        review: "4.9 | 146 reviews",
+        price: "₹1,599",
+        save:"You Save: ₹2391 (60%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/245v2_main_5_300x.png?v=1655787246",
+        prodName: "boAt Rockerz 245 V2",
+        review: "4.8 | 189 reviews",
+        price: "₹1,199",
+        save:"You Save: ₹1791 (60%)",
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/1be19528-6d06-4cab-8815-02618b93d3c9_300x.png?v=1625045854",
+        prodName: "boAt Rockerz 255 Pro",
+        review: "4.8 | 378 reviews",
+        price: "₹1,399",
+        save:"You Save: ₹3100 (60%)",
+    },
+]
