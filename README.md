@@ -61,7 +61,7 @@ It's a first project created with the techstacks mentioned above. Implemented fi
 
 <br />
 
-## Glimpses of cult-fit 🙈 :
+## Glimpses of boAt 🙈 :
 
 <table>
   <tr>
